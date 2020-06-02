@@ -1,3 +1,2 @@
-
 Dowolna linijka tekstu.
-Dodatkowa modyfikacja na branch-conflict.
+Dodatkowa modyfikacja z branch-conflict i branch-conflict-2.
