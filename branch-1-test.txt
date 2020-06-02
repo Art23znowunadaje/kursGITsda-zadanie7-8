@@ -1,2 +1,2 @@
-
-Dowolna linijka lekstu.
+Dowolna linijka tekstu.
+Dodatkowa linijka - zmiana w branch-conflictw-2.
